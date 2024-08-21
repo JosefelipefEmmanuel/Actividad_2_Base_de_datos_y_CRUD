@@ -1,1 +1,1 @@
-# Actividad1_POO2
+# Actividad_2_Base_de_datos_Java
